@@ -10,27 +10,27 @@ dingding: V1.0.0
 
 #### 文本消息类型
 
-![image-20221126120040801](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221126120040801.png)
+![image-20221126120040801](.assert\image-20221126120040801.png)
 
 #### 文本链接类型
 
-![image-20221126120159378](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221126120159378.png)
+![image-20221126120159378](.assert\image-20221126120159378.png)
 
 #### markdown 类型
 
-![image-20221126120328924](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221126120328924.png)
+![image-20221126120328924](.assert\image-20221126120328924.png)
 
 #### 整体跳转 ActionCard类型
 
-![image-20221126120347656](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221126120347656.png)
+![image-20221126120347656](.assert\image-20221126120347656.png)
 
 #### 独立跳转 ActionCard 类型
 
-![image-20221126120440779](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221126120440779.png)
+![image-20221126120440779](.assert\image-20221126120440779.png)
 
 #### FeedCard 类型
 
-![image-20221126120456832](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221126120456832.png)
+![image-20221126120456832](.assert\image-20221126120456832.png)
 
 ### 如何使用
 
